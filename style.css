@@ -1,0 +1,9 @@
+body {
+    background-color: blanchedalmond;
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
